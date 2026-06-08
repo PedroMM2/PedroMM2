@@ -4,9 +4,9 @@
 
 ## Desarrollador Full Stack: Python, HTML, CSS, JavaScript, PHP | bash/sh | Técnico Especialista en Electrónica Industrial
 
-Actualmente estoy mejorando mis conocimientos realizando un Máster en Desarrollo Full-Stack en Conquer Blocks.
+Actualmente, potencio mi perfil tecnológico cursando un Máster en Desarrollo Full-Stack en Conquer Blocks, integrando habilidades de desarrollo moderno para crear soluciones web de extremo a extremo.
 
-Tengo amplia experiencia en el sector retail, habiendo ejercido como jefe de grupo durante unos 20 años.
+Cuento con 20 años de experiencia liderando y gestionando equipos como jefe de grupo en el sector retail, destacando por mi capacidad organizativa y resolución de problemas.
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=&labelColor=101010)]() [![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]() [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)]() [![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 
